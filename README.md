@@ -7,3 +7,6 @@
 in *April 2020*
 amidts **corona lockdown**.
 
+### What this app does ?
+
+-> This app contains a single page which says **"Hello Flutter"**.
