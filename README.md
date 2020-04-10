@@ -9,7 +9,8 @@ amidts **corona lockdown**.
 
 ## What this app does ?
 
--> This app contains a single page which says **"Hello Flutter"**
+- This app contains a single page.
+- This app shows you the current time and greets you either "Good Morning", "Good Afternoon" or "Good Evening".
 
 ### How to run this app:
 
