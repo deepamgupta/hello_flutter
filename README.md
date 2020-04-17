@@ -1,6 +1,6 @@
 # hello_flutter
 
-> This is my first application. 
+> This is my first mobile application. 
 
 - This is the first application which I made while learning Flutter.
 
